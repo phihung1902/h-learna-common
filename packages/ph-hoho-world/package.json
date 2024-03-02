@@ -1,0 +1,32 @@
+{
+  "name": "ph-hoho-world",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Hung Nguyen <phihung19022003@gmail.com>",
+  "homepage": "https://github.com/phihung1902/h-learna-common#readme",
+  "license": "ISC",
+  "main": "lib/ph-hoho-world.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phihung1902/h-learna-common.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/ph-hoho-world.test.js"
+  },
+  "dependencies": {
+    "ph-aloha-world": "^1.0.0",
+    "ph-hello-world": "^1.0.0",
+    "ph-haha-world": "^1.0.0",
+    "ph-hihi-world": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/phihung1902/h-learna-common/issues"
+  }
+}
